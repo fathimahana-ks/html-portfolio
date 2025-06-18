@@ -72,7 +72,7 @@ A personal portfolio showcasing beginner web development projects using HTML. Th
 
 ## Preview
 
-<img src="./assets/images/portfolio-preview.png" alt="Portfolio homepage screenshot" width="400" style="border: 5px solid black; border-radius: 6px;" />
+<img src="./assets/images/portfolio-preview.png" alt="Portfolio homepage screenshot" width="400"/>
 
 ---
 
