@@ -72,8 +72,7 @@ A personal portfolio showcasing beginner web development projects using HTML. Th
 
 ## Preview
 
-<img src="./assets/images/movie-ranking.png" alt="Movie Ranking Screenshot" width="250"/>
-<img src="./assets/images/birthday-invite.png" alt="Birthday Invite Screenshot" width="250"/>
+<img src="./assets/images/portfolio-preview.png" alt="Portfolio homepage screenshot" width="400"/>
 
 ---
 
