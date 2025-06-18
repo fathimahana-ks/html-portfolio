@@ -1,4 +1,4 @@
-# Portfolio Website – Fathima Hana
+# HTML Portfolio Website – Fathima Hana
 
 HTML | Personal Projects | Web Development
 
@@ -67,6 +67,12 @@ A personal portfolio showcasing beginner web development projects using HTML. Th
 1. Clone or download the repository.
 2. Open `index.html` in any modern web browser.
 3. Ensure the folder structure is maintained for images and links to work properly.
+
+---
+
+## Live Website
+
+[https://fathimahana-ks.github.io/html-portfolio-website/](https://fathimahana-ks.github.io/html-portfolio-website/)
 
 ---
 
